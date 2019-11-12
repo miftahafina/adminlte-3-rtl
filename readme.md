@@ -8,3 +8,6 @@ To use this rtl style you should add required style file to head of your html fi
 
 # Screenshot
 ![screenshot](https://raw.githubusercontent.com/miftahafina/adminlte-3-rtl/master/screenshot.png)
+
+# To-do List
+- [ ] Add rtl style for custom elements
